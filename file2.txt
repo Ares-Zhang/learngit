@@ -1,0 +1,4 @@
+test file file1.txt
+line 1: abc
+line 2: def
+hellow git
